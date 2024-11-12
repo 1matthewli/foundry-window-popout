@@ -1,0 +1,15 @@
+.window-header .popout {
+    flex: 0;
+    margin: 0 4px;
+    color: #999;
+}
+
+.window-header .popout:hover {
+    color: #fff;
+    text-shadow: 0 0 8px red;
+}
+
+/* Styling for the popout icon */
+.window-header .popout i {
+    margin-right: 0;
+}
